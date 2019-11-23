@@ -1,5 +1,4 @@
 Baltimore Ravens, BAL
-
 QB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
 QB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
 QB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
@@ -49,7 +48,6 @@ LB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
 LB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
 LB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
 LB,Mister Bean,21,2018,99,10,99,10,10,10,0.5,5
-
 END_PLAYERS
 Cleveland Browns, CLE
 OL,J.C. Tretter,27,2013,77,78,88,89,74,81,5.6,3
